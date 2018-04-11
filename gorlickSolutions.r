@@ -1,7 +1,4 @@
-# Stephen Gorlick Solutions to Shipt Interview Questions
-# Prepared: 10/16/16
 
-# Thanks for considering my application!
 
 
 
